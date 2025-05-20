@@ -1,0 +1,24 @@
+# dependencias
+node_modules/
+
+# entorno
+.env
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# compilados
+dist/
+build/
+
+# Carpeta generada por Jekyll al compilar el sitio
+_site/    
+
+# Caché de Sass si usás Sass
+.sass-cache/  
+
+# Caché de Jekyll (nuevo en versiones recientes)
+.jekyll-cache/ 
+.jekyll-metadata
